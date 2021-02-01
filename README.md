@@ -1,4 +1,4 @@
-# reading_list_it
+# read_it
 My personal reading list of software engineering books I love to share
 
 - Refactoring: Improving the design of existing code (M. Fauler) (in process)
