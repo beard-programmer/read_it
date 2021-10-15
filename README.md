@@ -1,7 +1,8 @@
 # read_it
 My personal reading list of software engineering books I love to share
 
-- Refactoring: Improving the design of existing code (M. Fauler) (in process)
+- Fundamentals of Software Architecture: An Engineering Approach (Mark Richards + Neal Ford) (in progress)
+- Refactoring: Improving the design of existing code (M. Fauler)
 - Monolith to Microservices (S. Newman) - top pick
 - A philosophy of software design (J. Ousterhout)
 - Implementing Domain-Driven Design (V. Vernon +  E. Evans) - top pick
