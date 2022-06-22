@@ -1,7 +1,7 @@
 # read_it
 My personal reading list of software engineering books I love to share
 
-- Grokking Simplicity: Taming complex software with functional thinking (Eric Normand)
+- Grokking Simplicity: Taming complex software with functional thinking (Eric Normand) (in progress)
 - Professor Frisby's Mostly Adequate Guide to Functional Programming (Brian Lonsdorf)
 - Fundamentals of Software Architecture: An Engineering Approach (Mark Richards + Neal Ford)
 - Refactoring: Improving the design of existing code (M. Fauler)
