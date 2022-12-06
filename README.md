@@ -8,6 +8,7 @@ Software engineering books I highly recommend to take a look it. If some book ap
 - 🆂 Patterns of Enterprise Application Architecture (M. Fauler) [🔗](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
 - 🆂 Designing Data-Intensive Applications (M. Kleppmann) [🔗](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - 🆂 Implementing Domain-Driven Design (V. Vernon +  E. Evans) [🔗](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/)
+- 🅰 The Rust Programming Language (S. Klabnik and C. Nichols, with contributions from the Rust Community) [🔗](https://doc.rust-lang.org/book/)
 
 ## A Tier (Better not miss it)
 - 🅰 The Mythical Man-Month (Frederick Brooks) [🔗](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
