@@ -22,7 +22,7 @@ Software engineering books I highly recommend to take a look it. If some book ap
 - 🅱 PHP: Objects, Patterns, and Practice (M. Zandstra) [🔗](https://www.amazon.com/PHP-Objects-Patterns-Practice-Enhancements-dp-1484267907/dp/1484267907/)
 - 🅱 Head First Design Patterns (E. Freeman) [🔗](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - 🅱 Refactoring: Improving the design of existing code [🔗](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)(M. Fauler)
-- 🅱 Professor Frisby's Mostly Adequate Guide to Functional Programming [🔗](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch1.html) (Brian Lonsdorf)
+- 🅱 Professor Frisby's Mostly Adequate Guide to Functional Programming (Brian Lonsdorf) [🔗](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch1.html) 
 
 ## C Tier (Honorable mentions)
 - 🅲 The Linux Command Line (W. Shotts) [🔗](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/)
