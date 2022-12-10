@@ -13,7 +13,7 @@ Resources are sorted by its value in respective area. Every resource is presente
 - 🅰🅰🅰 Patterns of Enterprise Application Architecture (M. Fauler) [🔗](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
 - 🅰🅰🅰 The Rust Programming Language (S. Klabnik and C. Nichols, with contributions from the Rust Community) [🔗](https://doc.rust-lang.org/book/)
 - 🅰🅰🅰 The Pragmatic Programmer (A. Hunt, D. Thomas) [🔗](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/)
-- 🅰🅰🅰 Fundamentals of Software Architecture: An Engineering Approach (Mark Richards + Neal Ford) [🔗](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW))
+- 🅰🅰🅰 Fundamentals of Software Architecture: An Engineering Approach (Mark Richards + Neal Ford) [🔗](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW)
 - 🅰🅰🅰 Grokking Simplicity: Taming complex software with functional thinking (Eric Normand) [🔗](https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201/)
 
 ## AA tier
