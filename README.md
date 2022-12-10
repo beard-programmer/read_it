@@ -1,4 +1,5 @@
 Software engineering books I highly recommend to take a look it. I believe every book in this file would somehow benefit any person interested in and passionate about Software Engineering.
+Resources are sorted by its value in respective area. Every resource is presented with a link to a shop/website like this -> [🔗](https://github.com/supostatekx/read_it)
 
 ⁇(WIP) Domain Modeling Made Functional (S. Wlaschin) [🔗](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 
