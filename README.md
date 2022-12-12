@@ -1,22 +1,21 @@
 Software engineering books I highly recommend to take a look it. I believe every book in this file would somehow benefit any person interested in and passionate about Software Engineering.
 Resources are sorted by its value in respective area. Every resource is presented with a link to a shop/website like this -> [🔗](https://github.com/supostatekx/read_it)
 
-⁇(WIP) Domain Modeling Made Functional (S. Wlaschin) [🔗](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
-
 ## S tier
-- 🆂 Designing Web Usability (J. Nielsen) [🔗](https://www.amazon.com/gp/product/B01FKSUEVQ/)
 - 🆂 Code complete (S. McConnell) [🔗](https://www.amazon.com/Code-Complete-Steve-Mcconnell/dp/9350041243/)
 - 🆂 Designing Data-Intensive Applications (M. Kleppmann) [🔗](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - 🆂 Implementing Domain-Driven Design (V. Vernon +  E. Evans) [🔗](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/)
+- 🆂  Domain Modeling Made Functional (S. Wlaschin) [🔗](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 
 ## AAA tier
-- 🅰🅰🅰 Patterns of Enterprise Application Architecture (M. Fauler) [🔗](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
+- 🅰🅰🅰 Designing Web Usability (J. Nielsen) [🔗](https://www.amazon.com/gp/product/B01FKSUEVQ/)
 - 🅰🅰🅰 The Rust Programming Language (S. Klabnik and C. Nichols, with contributions from the Rust Community) [🔗](https://doc.rust-lang.org/book/)
-- 🅰🅰🅰 The Pragmatic Programmer (A. Hunt, D. Thomas) [🔗](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/)
 - 🅰🅰🅰 Fundamentals of Software Architecture: An Engineering Approach (Mark Richards + Neal Ford) [🔗](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW)
 - 🅰🅰🅰 Grokking Simplicity: Taming complex software with functional thinking (Eric Normand) [🔗](https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201/)
 
 ## AA tier
+- 🅰🅰 Patterns of Enterprise Application Architecture (M. Fauler) [🔗](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
+- 🅰🅰 The Pragmatic Programmer (A. Hunt, D. Thomas) [🔗](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/)
 - 🅰🅰 Clean Architecture (R. Martin) [🔗](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - 🅰🅰 The Mythical Man-Month (Frederick Brooks) [🔗](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - 🅰🅰 A philosophy of software design (J. Ousterhout) [🔗](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X)
