@@ -28,7 +28,7 @@ Please take a note that all of those books I find amazing and definitely be wort
 - 🅰 PHP: Objects, Patterns, and Practice (M. Zandstra) [🔗](https://www.amazon.com/PHP-Objects-Patterns-Practice-Enhancements-dp-1484267907/dp/1484267907/)
 - 🅰 The Linux Command Line (W. Shotts) [🔗](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/)
 - 🅰 The Clean Coder (R. Martin) [🔗](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- 🅰 Clean Architecture (R. Martin) [🔗](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - 🅰 Mobile Usability (J. Nielsen) [🔗](https://www.amazon.com/gp/product/B009ONZ0MM/)
 - 🅰 JavaScript Patterns (S. Stefanov) [🔗](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding-ebook/dp/B0046RERXE)
 - 🅰 Professor Frisby's Mostly Adequate Guide to Functional Programming (Brian Lonsdorf) [🔗](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch1.html) 
-- 🅰 Clean Architecture (R. Martin) [🔗](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
