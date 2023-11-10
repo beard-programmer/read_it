@@ -1,5 +1,6 @@
 Software engineering books I highly recommend to take a look it. I believe every book in this file would somehow benefit any person interested in and passionate about Software Engineering.
 Every resource is presented with a link to a shop/website like this -> [🔗](https://github.com/supostatekx/read_it)
+
 Please take a note that all of those books I find amazing and definetely worth your time.
 
 ## S tier
