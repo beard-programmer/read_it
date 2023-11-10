@@ -8,17 +8,17 @@ Resources are sorted by its value in respective area. Every resource is presente
 
 ## AAA tier
 - 🅰🅰🅰 Designing Web Usability (J. Nielsen) [🔗](https://www.amazon.com/gp/product/B01FKSUEVQ/)
-- 🅰🅰🅰 The Rust Programming Language (S. Klabnik and C. Nichols, with contributions from the Rust Community) [🔗](https://doc.rust-lang.org/book/)
 - 🅰🅰🅰 Designing Data-Intensive Applications (M. Kleppmann) [🔗](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - 🅰🅰🅰 Implementing Domain-Driven Design (V. Vernon +  E. Evans) [🔗](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/)
+- 🅰🅰🅰 The Pragmatic Programmer (A. Hunt, D. Thomas) [🔗](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/)
 
 ## AA tier
 - 🅰🅰 Fundamentals of Software Architecture: An Engineering Approach (Mark Richards + Neal Ford) [🔗](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW)
 - 🅰🅰 Grokking Simplicity: Taming complex software with functional thinking (Eric Normand) [🔗](https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201/)
 - 🅰🅰 Patterns of Enterprise Application Architecture (M. Fauler) [🔗](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
-- 🅰🅰 The Pragmatic Programmer (A. Hunt, D. Thomas) [🔗](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/)
 - 🅰🅰 The Mythical Man-Month (Frederick Brooks) [🔗](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - 🅰🅰 A philosophy of software design (J. Ousterhout) [🔗](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X)
+- 🅰🅰 The Rust Programming Language (S. Klabnik and C. Nichols, with contributions from the Rust Community) [🔗](https://doc.rust-lang.org/book/)
 
 ## A tier
 - 🅰 Head First Design Patterns (E. Freeman) [🔗](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
