@@ -17,14 +17,14 @@ Please take a note that all of those books I find amazing and definitely be wort
 ## AA tier
 - 🅰🅰 Fundamentals of Software Architecture: An Engineering Approach (Mark Richards + Neal Ford) [🔗](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW)
 - 🅰🅰 Grokking Simplicity: Taming complex software with functional thinking (Eric Normand) [🔗](https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201/)
-- 🅰🅰 Patterns of Enterprise Application Architecture (M. Fauler) [🔗](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
+- 🅰🅰 Patterns of Enterprise Application Architecture (M. Fowler) [🔗](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
 - 🅰🅰 The Mythical Man-Month (Frederick Brooks) [🔗](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - 🅰🅰 A philosophy of software design (J. Ousterhout) [🔗](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X)
 - 🅰🅰 The Rust Programming Language (S. Klabnik and C. Nichols, with contributions from the Rust Community) [🔗](https://doc.rust-lang.org/book/)
 
 ## A tier
 - 🅰 Head First Design Patterns (E. Freeman) [🔗](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
-- 🅰 Refactoring: Improving the design of existing code [🔗](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)(M. Fauler)
+- 🅰 Refactoring: Improving the design of existing code [🔗](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)(M. Fowler)
 - 🅰 PHP: Objects, Patterns, and Practice (M. Zandstra) [🔗](https://www.amazon.com/PHP-Objects-Patterns-Practice-Enhancements-dp-1484267907/dp/1484267907/)
 - 🅰 The Linux Command Line (W. Shotts) [🔗](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/)
 - 🅰 The Clean Coder (R. Martin) [🔗](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
