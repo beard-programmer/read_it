@@ -4,7 +4,7 @@ Every resource is presented with a link to a shop/website like this -> [🔗](ht
 Please take a note that all of those books I find amazing and definitely be worthy of your time.
 
 ## Code Complete tier
-- 🆂 Code complete (S. McConnell) [🔗](https://www.amazon.com/Code-Complete-Steve-Mcconnell/dp/9350041243/)
+- 🆂🆂🆂 Code complete (S. McConnell) [🔗](https://www.amazon.com/Code-Complete-Steve-Mcconnell/dp/9350041243/)
 
 ## S tier
 - 🆂 Domain Modeling Made Functional (S. Wlaschin) [🔗](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
