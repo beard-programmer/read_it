@@ -1,14 +1,12 @@
-Software engineering books I highly recommend to take a look it. I believe every book in this file would somehow benefit any person interested in and passionate about Software Engineering.
-Every resource is presented with a link to a shop/website like this -> [🔗](https://github.com/supostatekx/read_it)
+Software engineering books I highly recommend to take a look at. I believe every book in this file would somehow benefit any person interested in and passionate about Software Engineering.
+Every resource is presented with a link to a shop/website like this -> [🔗](https://github.com/beard-programmer/read_it)
 
-Please take a note that all of those books I find amazing and definitely be worthy of your time.
-
-## Code Complete tier
-- 🆂🆂🆂 Code complete (S. McConnell) [🔗](https://www.amazon.com/Code-Complete-Steve-Mcconnell/dp/9350041243/)
+Please take note that all of those books are amazing and are worthy of your time.
 
 ## S tier
 - 🆂 Domain Modeling Made Functional (S. Wlaschin) [🔗](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 - 🆂 Modern Operating Systems (A. Tanenbaum, H. Bos) [🔗](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/1292061421/)
+- 🆂 Code complete (S. McConnell) [🔗](https://www.amazon.com/Code-Complete-Steve-Mcconnell/dp/9350041243/)
 
 ## AAA tier
 - 🅰🅰🅰 Designing Web Usability (J. Nielsen) [🔗](https://www.amazon.com/gp/product/B01FKSUEVQ/)
